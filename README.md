@@ -1,4 +1,4 @@
-# simple-webpack-multiple-pages-temple
+# simple-webpack-multiple-pages-template
 
 ## 一个基于webpack和jquery的简单多页应用项目模板
 
