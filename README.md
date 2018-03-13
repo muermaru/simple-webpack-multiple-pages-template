@@ -17,6 +17,15 @@
 
 ***
 
+    打包
+    npm run build
+    调试
+    npm run dev
+    生成打包文件分析
+    npm run analyz
+
+***
+
 项目目录结构:
 
     .
@@ -66,12 +75,3 @@
         └── Login.html
 
 >注意在进行调试时执行`npm run dev`后要在浏览器里手动访问想要调试的页面。例如想要调试Login页面，需要访问:http://loclhost:8080/pages/Login.html
-
-***
-
-    打包
-    npm run build
-    调试
-    npm run dev
-    生成打包文件分析
-    npm run analyz
