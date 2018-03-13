@@ -1,7 +1,7 @@
 {
   "name": "simple-webpack-multiple-pages-template",
   "version": "1.0.0",
-  "description": "a simple webpack multiple-pages temple",
+  "description": "a simple webpack multiple-pages template",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --colors --config build/webpack.prod.config.js",
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.config.js",
