@@ -1,0 +1,6 @@
+import '@/common/style/common.css'
+import 'jquery-weui/dist/lib/weui.min.css'
+import 'jquery-weui/dist/css/jquery-weui.min.css'
+import 'jquery-weui/dist/js/jquery-weui.min.js'
+// import 'jquery-weui/dist/js/city-picker.min.js'
+// import 'jquery-weui/dist/js/swiper.min.js'

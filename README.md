@@ -75,4 +75,3 @@
     npm run dev
     生成打包文件分析
     npm run analyz
-# simple-webpack-multiple-pages-temple
